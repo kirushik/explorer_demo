@@ -1,0 +1,6 @@
+[package]
+name = "explorer_demo"
+version = "0.1.0"
+authors = ["Kirill Pimenov <kirushik@gmail.com>"]
+
+[dependencies]
