@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Kirill Pimenov <kirushik@gmail.com>"]
 
 [dependencies]
+qmlrs = "0.1.1"
